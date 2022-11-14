@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning full-stack web development in remote school
 - 📫 How to reach me: alelignayana@gmail.com
+-     Give a : star * :️ if you like this project!
 
 <!--
 **atatm/atatm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
