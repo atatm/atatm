@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Alelign
+
+## I'm a Full-Satck Developer
+
+- 🌱 I’m currently learning full-stack web development in remote school
+- 📫 How to reach me: alelignayana@gmail.com
 
 <!--
 **atatm/atatm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
