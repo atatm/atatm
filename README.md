@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Alelign
-#### I am Full-Stack Software Developer
+## Hi there 👋, my name is Alelign
+### I am Full-Stack Software Developer
 I live in Ethiopia and ,I’m currently learning full-stack web development in remote school
 
 Skills: / JavaScript / HTML / CSS
