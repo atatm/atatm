@@ -3,7 +3,6 @@
 I live in Ethiopia and ,I’m currently learning full-stack web development in remote school
 
 Skills: / JavaScript / HTML / CSS
-- 📫 How to reach me: alelignayana@gmail.com
 -    Give a : star * :️ if you like my projects!
 - 🔭 I’m available on this Social Medias. 
 
