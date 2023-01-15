@@ -2,7 +2,7 @@
 #### I am Full-Stack Software Developer
 I live in Ethiopia and ,I’m currently learning full-stack web development in remote school
 
-Skills: / JavaScript / HTML / CSS
+Skills: | JavaScript | HTML | CSS | React | Redux
 -    Give a : star * :️ if you like my projects!
 - 🔭 I’m available on this Social Medias. 
 
